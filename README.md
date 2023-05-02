@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hassan,
 - 👀 I’m interested in Software developpement
 - 🌱 I’m currently learning Web and Mobile developpement
-- 💞️ I’m looking to collaborate on web projects
+- 💞️ I’m looking to collaborate on web projects and why not on mobile projects too
 - 📫 How to reach me, by email belmekkihassan@gmail.com
 
 <!---
