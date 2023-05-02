@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on web projects and why not on mobile projects too
 - 📫 How to reach me, by email belmekkihassan@gmail.com
 
-![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
 
 <!---
 Ryuuzaki-sama/Ryuuzaki-sama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
